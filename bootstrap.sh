@@ -29,6 +29,7 @@ tryInstall the_silver_searcher
 tryInstall tree
 tryInstall lsof
 tryInstall autojump
+tryInstall fzf
 tryInstall wqy-microhei
 
 tryInstall zip

@@ -14,7 +14,7 @@ backup ${zshrc}
 cat>${zshrc}<<EOF
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="af-magic"
-plugins=(git colored-man-pages zsh-syntax-highlighting fancy-ctrl-z docker fzf rust cargo)
+plugins=(autojump git colored-man-pages zsh-syntax-highlighting fancy-ctrl-z docker fzf rust cargo)
 source $ZSH/oh-my-zsh.sh
 
 setopt no_nomatch
